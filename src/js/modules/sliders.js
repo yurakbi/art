@@ -72,6 +72,6 @@ const sliders = (slides, dir, prev, next) => {
         activateAnimation();
     });
 
-}
+};
 
 export default sliders;
