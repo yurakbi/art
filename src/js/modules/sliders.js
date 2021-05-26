@@ -63,7 +63,7 @@ const sliders = (slides, dir, prev, next) => {
     }
 
     activateAnimation();
-
+    
     items[0].parentNode.addEventListener('mouseenter', () => {
         clearInterval(paused);
     });
