@@ -12,6 +12,6 @@ window.addEventListener('DOMContentLoaded', () => {
     sliders('.main-slider-item', 'vertical');
     forms();
     mask('[name="phone"]');
-    checkTextInputs('[name="name"');
-    checkTextInputs('[name="message"');
+    checkTextInputs('[name="name"]');
+    checkTextInputs('[name="message"]');
 });
