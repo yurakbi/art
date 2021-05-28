@@ -1,5 +1,3 @@
-import showMoreStyles from "./showMoreStyles";
-
 const pictureSize = (imgSelector) => {
     const blocks = document.querySelectorAll(imgSelector);
 
