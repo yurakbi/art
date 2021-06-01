@@ -23,9 +23,6 @@
     "gulp": "^4.0.2",
     "webpack": "^4.41.2",
     "webpack-stream": "^5.2.1"
-  },
-  "dependencies": {
-    "eslint": "^7.27.0",
-    "jshint": "^2.13.0"
   }
+  
 }
